@@ -1,24 +1,40 @@
 {
   "main": {
-    "id": "4bbabf526a25d970",
+    "id": "d336cf9b10904729",
     "type": "split",
     "children": [
       {
-        "id": "90d3582d08e7785d",
+        "id": "df5f47f93f0bc619",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae8646da33c899f",
+            "id": "cd487edc35abae0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Learning/2025-03-25.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-25"
+              "title": "Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c8dca38786e74f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd16bb8732bdb869",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c61c09b2a7818f98",
+    "id": "3f7ff5ab2fe39612",
     "type": "split",
     "children": [
       {
-        "id": "14cc349e4f5e9b56",
+        "id": "85a63bf30ae04353",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8a3769b17b013b",
+            "id": "e73beba313fb2315",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "b0d3529b7d5cb2de",
+            "id": "158fe668287db9c7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "f061e9208e2d2875",
+            "id": "c668efad4ec7aeda",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "79297939bed2c0de",
+    "id": "7cc35c9c9401a08b",
     "type": "split",
     "children": [
       {
-        "id": "82dce6516989bcb2",
+        "id": "a5e3cdcfdb327d67",
         "type": "tabs",
         "children": [
           {
-            "id": "709c02b824716121",
+            "id": "686c9f3c30b232e1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Learning/22-03-2025.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22-03-2025"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "566dd31dc7fa2674",
+            "id": "6b131761780c34b0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Learning/22-03-2025.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22-03-2025"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "304d5d76d2ff5f7d",
+            "id": "c9dbf6851c0c8c4a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,26 +153,25 @@
             }
           },
           {
-            "id": "d2cb85ed90eb0117",
+            "id": "b6638d0580154f6a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_Learning/_template_daily_task_.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _template_daily_task_"
+              "title": "Outline of Welcome"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,28 +184,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ae8646da33c899f",
+  "active": "cd487edc35abae0d",
   "lastOpenFiles": [
-    "Daily_Learning/2025-03-24.md",
-    "Daily_Learning/2025-03-25.md",
-    "Daily_Learning/_template_daily_task_.md",
-    "Resources.md",
-    "Untitled.canvas",
-    "Machine Learning/Inference.md",
-    "Machine Learning/Why estimate F.md",
-    "Machine Learning/Prediction.md",
-    "Machine Learning/Basic of Machine Learning.md",
-    "Machine Learning",
-    "R/Day 2.md",
-    "R/R workshop day 1.md",
-    "PyTorch/24-03-2025.md",
-    "PyTorch/Pasted image 20250324103557.png",
-    "PyTorch/learning Resource.md",
-    "R",
-    "Daily_Learning/22-03-2025.md",
-    "Daily_Learning",
-    "Learn-Pytorch.md",
-    "PyTorch",
     "Welcome.md"
   ]
 }

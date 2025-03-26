@@ -1,2 +1,4 @@
 -Idm Activator command powershell {iex(irm is.gd/idm_reset) }
 -Visual cnn Explainer {https://poloclub.github.io/cnn-explainer/}
++[]fdfsd
+- [ ] this is the task
