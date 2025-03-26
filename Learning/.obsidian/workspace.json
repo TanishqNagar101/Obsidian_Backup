@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Learning/2025-03-26.md",
+                "file": "Machine Learning/Assessing Model Quality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-26"
+              "title": "Assessing Model Quality"
             }
           }
         ]
@@ -171,16 +171,20 @@
   },
   "active": "6ae8646da33c899f",
   "lastOpenFiles": [
-    "Daily_Learning/_template_daily_task_.md",
-    "Daily_Learning/2025-03-26.md",
-    "Machine Learning/Prediction.md",
+    "Pasted image 20250326160115.png",
+    "Machine Learning/Basic of Machine Learning.md",
+    "Machine Learning/How Do We Estimate f.md",
+    "Machine Learning/Assessing Model Quality.md",
     "Machine Learning/Inference.md",
+    "Machine Learning/Pasted image 20250326153744.png",
+    "Machine Learning/Prediction.md",
+    "Machine Learning/Why estimate F.md",
+    "Daily_Learning/2025-03-26.md",
+    "Daily_Learning/_template_daily_task_.md",
     "Daily_Learning/2025-03-25.md",
     "Daily_Learning/2025-03-24.md",
     "Resources.md",
     "Untitled.canvas",
-    "Machine Learning/Why estimate F.md",
-    "Machine Learning/Basic of Machine Learning.md",
     "Machine Learning",
     "R/Day 2.md",
     "R/R workshop day 1.md",

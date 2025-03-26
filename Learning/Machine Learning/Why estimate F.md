@@ -1,3 +1,4 @@
+#theory 
 The two main reason to estimate $f$ are: -
 	[[Prediction]]
 	[[Inference]]
