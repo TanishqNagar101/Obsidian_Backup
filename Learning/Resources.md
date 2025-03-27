@@ -1,4 +1,12 @@
--Idm Activator command powershell {iex(irm is.gd/idm_reset) }
--Visual cnn Explainer {https://poloclub.github.io/cnn-explainer/}
-+[]fdfsd
-- [ ] this is the task
+- Idm Activator command powershell: - {iex(irm is.gd/idm_reset) }
+- [Visual cnn Explainer](https://poloclub.github.io/cnn-explainer/)
+- [Path to Polymath](https://path-to-polymathy.notion.site/cec02853d9c54be7864ba705b3eb655f?v=f93f9f163cdd4bf29b3ede2455aaca42)
+- [Project Bruce Wayne](https://projectwayne.com/accomplishments/)
+- [Type and Read](https://entertrained.app/books/sun-tzu--the-art-of-war)
+- [LLM Chronicles](https://llm-chronicles.com/)
+- [Learn Psychology](https://nobaproject.com/))
+- [Deep Learning Book in pytorch, jax and tensorflow](https://d2l.ai/)
+- [Home Workout](https://darebee.com/)
+- [Self Learn](https://www.clearerthinking.org/tools)
+- [Question-Research Tool](https://answerthepublic.com/)
+- 
