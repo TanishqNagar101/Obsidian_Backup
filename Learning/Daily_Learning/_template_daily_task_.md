@@ -10,6 +10,5 @@ $\textbf{Low Priority Task}$
 - [ ] Task 1
 
 $\textbf{Things Done Tody}$
-- [ ] Task
-- [ ] 
+- 
 
