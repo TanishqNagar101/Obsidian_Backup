@@ -9,4 +9,5 @@
 - [Home Workout](https://darebee.com/)
 - [Self Learn](https://www.clearerthinking.org/tools)
 - [Question-Research Tool](https://answerthepublic.com/)
+- [Starting Deep Learning Book](https://www.deeplearningbook.org/)
 - 
