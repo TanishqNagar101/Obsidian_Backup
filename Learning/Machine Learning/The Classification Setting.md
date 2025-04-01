@@ -1,0 +1,2 @@
+- Train Error Rate: -
+	- $\Large{\frac{1}{n} \sum_{n=0}^{n}(y_{i}\neq \hat{y}_{i})}$ 
