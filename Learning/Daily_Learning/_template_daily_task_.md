@@ -1,14 +1,18 @@
 $\textbf{Add your Daily Task}$
 - [ ] Task 1 
 - [ ] Task 2
-- [ ] Task 3
+- [ ] DSA
 
 $\textbf{High Priority Task}$
-- [ ] Task 1
+- [ ] Convert Video to frames in PyTorch.
 
 $\textbf{Low Priority Task}$
-- [ ] Task 1
+- [ ] 50-Pushup
 
-$\textbf{Things Done Tody}$
+$\textbf{Things Done Today}$
 - 
 
+$\LARGE{Things\ to\ do}$
+- [ ] Read Titanic winner files
+- [ ] 
+- [ ] 

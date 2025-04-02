@@ -1,2 +1,6 @@
 - Train Error Rate: -
-	- $\Large{\frac{1}{n} \sum_{n=0}^{n}(y_{i}\neq \hat{y}_{i})}$ 
+	- $\Large{\frac{1}{n} \sum_{n=0}^{n}(y_{i}\neq\hat{y}_{i})}\LARGE{\{} x+y \}$  
+- Test Error Rate: -
+	- $\Large{Avg(\sum_{n=0}^{n}(y_{i}\neq \hat{y}_{i})}$ 
+- The Bayes Classifier: -
+	-  A good classifier is the one that can minimize the test error
