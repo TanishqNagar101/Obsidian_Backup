@@ -10,4 +10,6 @@
 - [Self Learn](https://www.clearerthinking.org/tools)
 - [Question-Research Tool](https://answerthepublic.com/)
 - [Starting Deep Learning Book](https://www.deeplearningbook.org/)
+- [Awesome ](https://github.com/arpit-omprakash/100ProjectsOfCode?tab=readme-ov-file#simulate-the-world)
+- [Evolution](https://www.youtube.com/watch?v=N3tRFayqVtk)
 - 

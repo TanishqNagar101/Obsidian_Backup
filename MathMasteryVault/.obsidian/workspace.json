@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "47bec0de31cc19f1",
+    "id": "9bfeb28a9f0af3ac",
     "type": "split",
     "children": [
       {
-        "id": "32352e39b7f1d050",
+        "id": "ec404b78b1bf8fec",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa8b676168e1a1f",
+            "id": "013856d4df0e7d75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Concept_Note_Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concept_Note_Template"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5a9f03c8c996b7ae",
+    "id": "b0616a038ad8e505",
     "type": "split",
     "children": [
       {
-        "id": "32f2e396a3411f5e",
+        "id": "46d8c55ff85fb778",
         "type": "tabs",
         "children": [
           {
-            "id": "a0f31a5105a712b1",
+            "id": "659ee30ef8e25a09",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "c924c4b75be4d2e7",
+            "id": "4cba8ff13012c8d6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "29f1c2126fa3cec1",
+            "id": "aa93bda13d8c3de8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "92e30a7a1b1a6587",
+    "id": "8f20dcd3a6d40b12",
     "type": "split",
     "children": [
       {
-        "id": "7b347d111a9e937e",
+        "id": "d066226740d40568",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e9848661a5851b",
+            "id": "e313cc624a94967d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Concept_Note_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Concept_Note_Template"
             }
           },
           {
-            "id": "637b9a1aa12342b6",
+            "id": "86028d49cf1ed8fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Concept_Note_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Concept_Note_Template"
             }
           },
           {
-            "id": "4f2e3a167f987a7e",
+            "id": "5c90672262548c74",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +137,18 @@
             }
           },
           {
-            "id": "386151649c229912",
+            "id": "d7e402a96852ff51",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Concept_Note_Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Concept_Note_Template"
             }
           }
         ]
@@ -161,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fa8b676168e1a1f",
+  "active": "013856d4df0e7d75",
   "lastOpenFiles": [
-    "Probablity/Untitled.md",
-    "Welcome.md",
-    "Statistics",
-    "Probablity"
+    "04_Probability_&_Statistics/Standard_Deviation.md",
+    "99_Journal/Day_01_Notes.md",
+    "Roadmap/Master_Math_Roadmap.md",
+    "Templates/Concept_Note_Template.md"
   ]
 }
