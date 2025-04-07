@@ -1,0 +1,5 @@
+- Synergy / Interaction Effect: - combined effort > sum of individual effort or in simple words $\large{\large^{"}The\ Effect\ of\ X\ on\ Y\ changes\ depending\ on\ the\ value\ of\ Z^{"}}$
+- Simple Linear Regression: -
+	- $\large{Y\approx\beta_{0}+\beta_{1}X}$             "Regressing Y on X / Y onto X"
+- $\large{\beta_{0}\ and\ \beta_{1}\ are\ Slope\ and\ Intersept\ respectively}$
+- 
