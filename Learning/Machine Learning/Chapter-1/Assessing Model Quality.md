@@ -1,4 +1,4 @@
-#bias_variance_tradeoff #error_used_in_traning_and_testing
+#bias_variance_tradeoff #error_used_in_traning_and_testing #Mean_Square_Error 
 - $\huge{variance \varpropto \frac{1}{Bias}}$
 - $\huge{flexiblity \varpropto \frac{1}{interpretability}}$
 - Bias: - The inability off the model to correctly fit the training data is called Bias.
@@ -7,6 +7,8 @@
 - Variance: - The amount by which the true relationship would change on using different dataset. Ideally it should not change much.
 - ![[Pasted image 20250327104521.png]]
 
+- The least Square method is as follow:-
+		$\large{Least\ Square=(y_{i}-\hat{f}(X_{i}))^{2}}$ 
 - For training Linear mode In general we use this in training data: -           (Train MSE)
 		$\large{MSE=\frac{1}{n}\sum_{i=1}^{n}}(y_{i}-\hat{f}(X_{i}))^2$ 
 - For testing Linear model we use this: -                                                        (Test MSE)
