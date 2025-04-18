@@ -11,14 +11,26 @@
             "id": "6ae8646da33c899f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250406110914.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250406110914"
+            }
+          },
+          {
+            "id": "9b3ee96cf9efd6f5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Chapter-2/Assessing The Accuracy of The Coefficient Estimates.md",
+                "file": "Machine Learning/Chapter-2/Simple Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assessing The Accuracy of The Coefficient Estimates"
+              "title": "Simple Linear Regression"
             }
           }
         ]
@@ -171,7 +183,14 @@
   },
   "active": "6ae8646da33c899f",
   "lastOpenFiles": [
+    "Resources.md",
+    "Pasted image 20250406110914.png",
+    "Courses.md",
     "Machine Learning/Chapter-2/Simple Linear Regression.md",
+    "Machine Learning/Remaining Proofs.md",
+    "Machine Learning/Chapter-2/RSS Minimization.md",
+    "Daily_Learning/2025-04-18.md",
+    "Daily_Learning/2025-04-09.md",
     "Machine Learning/Chapter-2/Assessing The Accuracy of The Coefficient Estimates.md",
     "Machine Learning/Chapter-1/Assessing Model Quality.md",
     "Machine Learning/Chapter-1/Basic of Machine Learning.md",
@@ -186,22 +205,14 @@
     "Daily_Learning/2025-04-03.md",
     "Daily_Learning/2025-04-06.md",
     "Daily_Learning/2025-04-07.md",
-    "Machine Learning/Remaining Proofs.md",
     "Machine Learning/Chapter-2",
     "Machine Learning/Chapter-1/Why estimate F.md",
     "Machine Learning/Chapter-1/Key Points to Remember.md",
     "Machine Learning/Chapter-1",
-    "Resources.md",
-    "Courses.md",
-    "Pasted image 20250406110914.png",
     "Daily_Learning/_template_daily_task_.md",
     "Daily_Learning/2025-04-01.md",
     "Untitled.canvas",
-    "Daily_Learning/March/22-03-2025.md",
     "Daily_Learning/March",
-    "Daily_Learning/March/2025-03-31.md",
-    "Daily_Learning/March/2025-03-28.md",
-    "Daily_Learning/March/2025-03-27.md",
     "Resources/Pasted image 20250327112259.png",
     "Resources/Pasted image 20250327104521.png",
     "Resources/Pasted image 20250327102541.png",
