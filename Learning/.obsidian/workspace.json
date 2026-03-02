@@ -8,63 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e6db0ba02732d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
-            "id": "725afd1320070f88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algorithms"
-            }
-          },
-          {
-            "id": "91cc83e1c143f797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "0fb66454badeaef7",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-18 17.02.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-18 17.02.32.excalidraw"
+            }
+          },
+          {
+            "id": "b83cbdd39f862154",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms.md",
+                "file": "Currently Working/Ray-Tracing Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithms"
+              "title": "Ray-Tracing Engine"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,26 +181,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fb66454badeaef7",
+  "active": "b83cbdd39f862154",
   "lastOpenFiles": [
+    "Currently Working/Ray-Tracing.md",
+    "Excalidraw/Drawing 2026-02-18 17.02.32.excalidraw.md",
+    "Currently Working/Ray-Tracing Engine.md",
+    "Resources.md",
+    "Algorithms.md",
+    "Linear Algebra/Untitled.md",
+    "Linear Algebra/GS Video-2.md",
     "Machine Learning/Chapter-1/KNN.md",
     "How To Build",
     "Currently Working",
     "Machine Learning/Chapter-1/Mathematical Proof of Bias-Variance Tradeoff.md",
     "Machine Learning/Chapter-1/Assessing Model Quality.md",
     "Machine Learning/Chapter-1/Basic of Machine Learning.md",
-    "Algorithms.md",
     "Machine Learning/Matrix.md",
     "Machine Learning/Probability.md",
-    "Resources.md",
     "Resources/Pasted image 20250327104521.png",
     "Resources/Pasted image 20250327102541.png",
     "Resources/Pasted image 20250326153744.png",
-    "Linear Algebra/GS Video-2.md",
-    "Linear Algebra/Untitled.md",
     "Linear Algebra",
     "Anime List.md",
     "Book List.md",
@@ -240,7 +214,6 @@
     "Excalidraw/Drawing 2026-02-28 19.05.01.excalidraw.md",
     "Resources/Pasted image 20260213223911.png",
     "Resources/Pasted image 20260213230733.png",
-    "Excalidraw/Drawing 2026-02-18 17.02.32.excalidraw.md",
     "Excalidraw/Drawing 2026-02-13 12.22.31.excalidraw.md",
     "Excalidraw/Drawing 2026-02-13 12.26.39.excalidraw.md",
     "Excalidraw/Drawing 2026-02-13 12.23.55.excalidraw.md",
@@ -253,8 +226,6 @@
     "Matrix and Vectors.md",
     "Machine Learning/Remaining Proofs.md",
     "Resources/Pasted image 20250406110914.png",
-    "PyTorch/24-03-2025.md",
-    "Algorithms/Genetic Algorithm.md",
     "PyTorch/Pasted image 20250324103557.png",
     "Algorithms",
     "Nand to Tetris",
