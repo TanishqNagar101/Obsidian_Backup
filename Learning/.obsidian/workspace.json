@@ -4,38 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "90d3582d08e7785d",
+        "id": "faddbd32b224e747",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae8646da33c899f",
+            "id": "8e6db0ba02732d2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_Learning/2025-04-19.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-19"
+              "title": "Resources"
             }
           },
           {
-            "id": "9b3ee96cf9efd6f5",
+            "id": "725afd1320070f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Chapter-2/Simple Linear Regression.md",
+                "file": "Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Linear Regression"
+              "title": "Algorithms"
+            }
+          },
+          {
+            "id": "91cc83e1c143f797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "0fb66454badeaef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithms"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "79297939bed2c0de",
@@ -108,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_Learning/22-03-2025.md",
+                "file": "Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22-03-2025"
+              "title": "Backlinks for Matrix"
             }
           },
           {
@@ -127,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_Learning/22-03-2025.md",
+                "file": "Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22-03-2025"
+              "title": "Outgoing links from Matrix"
             }
           },
           {
@@ -166,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,56 +204,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ae8646da33c899f",
+  "active": "0fb66454badeaef7",
   "lastOpenFiles": [
-    "Pasted image 20250406110914.png",
-    "Daily_Learning/2025-04-19.md",
-    "Resources.md",
-    "Courses.md",
-    "Machine Learning/Chapter-2/Simple Linear Regression.md",
-    "Machine Learning/Remaining Proofs.md",
-    "Machine Learning/Chapter-2/RSS Minimization.md",
-    "Daily_Learning/2025-04-18.md",
-    "Daily_Learning/2025-04-09.md",
-    "Machine Learning/Chapter-2/Assessing The Accuracy of The Coefficient Estimates.md",
+    "Machine Learning/Chapter-1/KNN.md",
+    "How To Build",
+    "Currently Working",
+    "Machine Learning/Chapter-1/Mathematical Proof of Bias-Variance Tradeoff.md",
     "Machine Learning/Chapter-1/Assessing Model Quality.md",
     "Machine Learning/Chapter-1/Basic of Machine Learning.md",
-    "Machine Learning/Chapter-1/How Do We Estimate f.md",
-    "Machine Learning/Chapter-1/The Classification Setting.md",
-    "Machine Learning/Chapter-1/Mathematical Proof of Bias-Variance Tradeoff.md",
-    "Machine Learning/Chapter-1/Prediction.md",
-    "Machine Learning/Chapter-1/Inference.md",
-    "Machine Learning/Chapter-1/KNN.md",
-    "Daily_Learning/2025-04-08.md",
-    "Daily_Learning/2025-04-02.md",
-    "Daily_Learning/2025-04-03.md",
-    "Daily_Learning/2025-04-06.md",
-    "Daily_Learning/2025-04-07.md",
-    "Machine Learning/Chapter-2",
-    "Machine Learning/Chapter-1/Why estimate F.md",
-    "Machine Learning/Chapter-1/Key Points to Remember.md",
-    "Machine Learning/Chapter-1",
-    "Daily_Learning/_template_daily_task_.md",
-    "Untitled.canvas",
-    "Daily_Learning/March",
-    "Resources/Pasted image 20250327112259.png",
+    "Algorithms.md",
+    "Machine Learning/Matrix.md",
+    "Machine Learning/Probability.md",
+    "Resources.md",
     "Resources/Pasted image 20250327104521.png",
     "Resources/Pasted image 20250327102541.png",
-    "Resources",
-    "Pasted image 20250326160115.png",
     "Resources/Pasted image 20250326153744.png",
-    "Machine Learning",
+    "Linear Algebra/GS Video-2.md",
+    "Linear Algebra/Untitled.md",
+    "Linear Algebra",
+    "Anime List.md",
+    "Book List.md",
+    "Courses.md",
+    "Gauss-Elimination.md",
+    "Question Types In Probability.md",
+    "Excalidraw/Drawing 2026-02-28 19.05.01.excalidraw.md",
+    "Resources/Pasted image 20260213223911.png",
+    "Resources/Pasted image 20260213230733.png",
+    "Excalidraw/Drawing 2026-02-18 17.02.32.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 12.22.31.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 12.26.39.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 12.23.55.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 13.07.30.excalidraw.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "Dot product.md",
+    "Matrix and Vectors.md",
+    "Machine Learning/Remaining Proofs.md",
+    "Resources/Pasted image 20250406110914.png",
+    "PyTorch/24-03-2025.md",
+    "Algorithms/Genetic Algorithm.md",
     "PyTorch/Pasted image 20250324103557.png",
-    "R",
-    "Daily_Learning",
-    "PyTorch"
+    "Algorithms",
+    "Nand to Tetris",
+    "Daily_Learning/OLDER",
+    "Machine Learning/Chapter-2",
+    "Machine Learning/Chapter-1",
+    "Resources/Pasted image 20250327112259.png",
+    "Pasted image 20250326160115.png"
   ]
 }

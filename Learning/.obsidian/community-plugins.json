@@ -1,1 +1,6 @@
-[]
+[
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-linter",
+  "github-sync"
+]

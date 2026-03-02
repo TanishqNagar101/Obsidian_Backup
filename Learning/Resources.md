@@ -12,4 +12,7 @@
 - [Starting Deep Learning Book](https://www.deeplearningbook.org/)
 - [Awesome ](https://github.com/arpit-omprakash/100ProjectsOfCode?tab=readme-ov-file#simulate-the-world)
 - [Evolution](https://www.youtube.com/watch?v=N3tRFayqVtk)
-- 
+- [Leet code for Neural Network](https://neuraprep.com/)
+- [ML interview questions and list](https://github.com/TidorP/MLJobSearch2025)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/)
+

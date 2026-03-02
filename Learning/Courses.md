@@ -1,6 +1,0 @@
-- [ ] https://www.coursera.org/learn/linear-algebra-machine-learning/home/week/1
-- [ ] https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science/home/week/1
-- [ ] https://www.coursera.org/learn/stanford-statistics#syllabus
-- [ ] https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c&utm_campaignid=roadmap.sh&utm_term=14726_CR_1164545_
-- [ ] https://www.coursera.org/learn/probability-statistics?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c&utm_campaignid=roadmap.sh&utm_term=14726_CR_1164545_
-- [ ] https://www.coursera.org/learn/erasmus-econometrics?irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c&utm_campaignid=roadmap.sh&utm_term=14726_CR_1164545_

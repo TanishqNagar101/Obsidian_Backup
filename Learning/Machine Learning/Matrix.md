@@ -1,0 +1,12 @@
+- A matrix is a data-structure to store data and perform operations on them.
+- A matrix "A" of "n x m" dimension. "n"-no. of rows, 'm'-no. of columns.
+- The most common operations are multiplication and addition.
+- Now for multiplication there are two types:-
+	- Scaler multiple- In this we multiply the entire matrix with a single number for example matrix "A" * 2 .
+	- Matrix multiplication- In this each entry of the resultant matrix is a Dot product of row "A" and column of "B". It can only happen when no. of columns of first matrix = no. of rows of second matrix. Also it is not commutative i.e. AB need not equal to BA but it is associative  i.e. A(BC) = (AB)C
+- Now matrix is used in physics, mathematics, computer science and many other fields. The main usage I currently know are these:-
+	- Use in solving and visualizing [[linear equations]] -  We take linear equations write them in the form of AX=B where 'A' contain coefficients, 'B' contain the right hand side of the equations and 'X' contain variables. Equation are stored in row base i.e. each row represent a single equation.
+	- Using the vector notation - We store vector as a column bases i.e. each column represent a vector and each vector can be dependent or independent.
+	- The major difference between then is how we interpret them in case of equation we generally see them in row order and for vector case in column order.
+	- It is worthy to mention that they can be used interchangeably that means if I store equations in row order it can be interpreted and solved as a vector and vice-versa.
+- Every column of a matrix span a sub-space . The dimension of the space  or the **RANK** of the matrix is the no. of independent columns (if we have a matrix form equation we will interpret it as vector). Now the definition of independent is simple "A vector(column) is said to be independent iff it is not a linear combination of other vectors" i.e. a set of vectors(Matrix) is said to be independent if I can not find non -zero(not trivial) coefficients that equal to zero.
