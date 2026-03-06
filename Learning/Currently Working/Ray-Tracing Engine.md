@@ -6,3 +6,4 @@
 	- We also need a RAY class and a writer function(To write image).
 - This is the minimum set-up you need. After that comes the first hurdle the "Viewport".
 - So a viewport is what the image see (i.e. )
+- THis is testing
