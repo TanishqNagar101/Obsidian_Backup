@@ -6,4 +6,13 @@
 	- We also need a RAY class and a writer function(To write image).
 - This is the minimum set-up you need. After that comes the first hurdle the "Viewport".
 - So a viewport is what the image see (i.e. It is a 2D - Window in 2d world where each box represent a pixel in original image. The aspect ratio(width/height) of viewport is same as desired image.)
+- For this article we take Image with following specifications :- 
+	- Width $I_{w}$ 
+	- Height $I_{h}$ 
+	- Aspect-ratio $\Large{\frac{I_{w}}{I_{h}}=I_{AR}}$ 
+## Viewport
+- Basic information:-
+	- Width $VP_{w}$ 
+	- Height $VP_{h}$ 
+	- Aspect-ratio $\Large{\frac{VP_{w}}{VP_{h}}=VP_{AR} = I_{AR}}$ 
 - 
